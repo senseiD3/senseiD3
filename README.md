@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Hola! Soy David</h1>
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTR4ejkyejh0anlyZG1mcDNkZmxtOWplcnpqbnM4NHRjamJjcDFrMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/2fMPKtmto41K9DaPo2/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTR4ejkyejh0anlyZG1mcDNkZmxtOWplcnpqbnM4NHRjamJjcDFrMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/2fMPKtmto41K9DaPo2/giphy.gif" width="500">
 </p>
 
 <p align="center">
