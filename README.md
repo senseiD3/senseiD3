@@ -35,6 +35,10 @@
 <img src="https://img.shields.io/badge/SQL-00ff99?style=for-the-badge&logo=database&logoColor=000000">
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTd5ZTh1Y2t3YTNnNDl1cmpud3M0OGNrOTg3d3lyN3Q2MjYwZmY0byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JymRvCWcasbdMVXcVA/giphy.gif" width="250">
+</p>
+
 ---
 
 <h2 align="center">🚀 [ ARCHIVOS ]</h2>
