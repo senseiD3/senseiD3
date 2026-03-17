@@ -1,20 +1,31 @@
-# 👋 ¡Hola! Soy David
+<h1 align="center">👋 ¡Hola! Soy David</h1>
 
-Bienvenido a mi perfil de GitHub 🚀  
+<p align="center">
+Bienvenido a mi perfil de GitHub 🚀 <br>
 Aquí es donde convierto café ☕ en código
+</p>
 
-## 💻 Sobre mí
-- 🎓 Aprendiendo y mejorando cada día
-- 🧠 Me gusta resolver problemas
-- 🎮 Fan de los videojuegos y de automatizar cosas porque sí
+<h2 align="center">💻 Sobre mí</h2>
 
-## 🛠️ Tecnologías que uso
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+<p align="center">
+🎓 Aprendiendo y mejorando cada día <br>
+🧠 Me gusta resolver problemas <br>
+🎮 Fan de los videojuegos y de automatizar cosas porque sí
+</p>
 
-## 🚀 Qué puedes encontrar aquí
-- Proyectos de clase (los que funcionan y los que... bueno 😅)
-- Pruebas y experimentos
-- Cosas random que se me ocurren
+<h2 align="center">🛠️ Tecnologías que uso</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white">
+</p>
+
+<h2 align="center">🚀 Qué puedes encontrar aquí</h2>
+
+<p align="center">
+Proyectos de clase (los que funcionan y los que... bueno 😅) <br>
+Pruebas y experimentos <br>
+Cosas random que se me ocurren
+</p>
