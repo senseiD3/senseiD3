@@ -1,7 +1,7 @@
 <h1 align="center">👾 DAVID.EXE 👾</h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eTR4ejkyejh0anlyZG1mcDNkZmxtOWplcnpqbnM4NHRjamJjcDFrMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/2fMPKtmto41K9DaPo2/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpvd2FuamF0OHJ3ZzI3cHIzMG12dGNsbmU2YjlvZ21taDZxdTc1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/t4DcI9P3dNVoA/giphy.gif" width="500">
 </p>
 
 <p align="center">
