@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/HTML5-ff0080?style=for-the-badge&logo=html5&logoColor=00ffff">
 <img src="https://img.shields.io/badge/CSS3-00ffff?style=for-the-badge&logo=css3&logoColor=ff00ff">
 <img src="https://img.shields.io/badge/SQL-00ff99?style=for-the-badge&logo=database&logoColor=000000">
-<img src="https://img.shields.io/badge/AUTOIT-00ff99?style=for-the-badge&logo=database&logoColor=fff000">
+<img src="https://img.shields.io/badge/AUTOIT-00ff99?style=for-the-badge&logo=database&logoColor=ff0f0">
 </p>
 
 <p align="center">
