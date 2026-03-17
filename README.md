@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy David
 
-<!--
-**senseiD3/senseiD3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi perfil de GitHub 🚀  
+Aquí es donde convierto café ☕ en código (a veces funciona mejor que otras...)
 
-Here are some ideas to get you started:
+## 💻 Sobre mí
+- 🎓 Aprendiendo y mejorando cada día
+- 🧠 Me gusta resolver problemas
+- 🎮 Fan de los videojuegos y de automatizar cosas porque sí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que uso
+- ☕ Java (mi main)
+- 🌐 HTML
+- 🎨 CSS
+- 🗄️ SQL
+
+## 🚀 Qué puedes encontrar aquí
+- Proyectos de clase (los que funcionan y los que... bueno 😅)
+- Pruebas y experimentos
+- Cosas random que se me ocurren
+
+## 📊 Estadísticas (porque queda pro)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
