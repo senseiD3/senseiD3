@@ -21,12 +21,12 @@
 <p align="center">
 > 🎓 Aprendiendo cada día <br>
 > 🧠 Resolviendo problemas (o creándolos 😈) <br>
-> 🎮 Gamer + automatización porque sí
+> 🎮 Gamer
 </p>
 
 ---
 
-<h2 align="center">🛠️ [ STACK ]</h2>
+<h2 align="center">🛠️ [ MANEJO ]</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-ff00ff?style=for-the-badge&logo=java&logoColor=00ffff">
